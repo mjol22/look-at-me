@@ -9,7 +9,7 @@
     "packs": [],
     "url": "https://github.com/mjol22/look-at-me",
     "manifest": "https://raw.githubusercontent.com/mjol22/look-at-me/master/module.json",
-    "download": "https://github.com/mjol22/look-at-me/master.zip",
+    "download": "https://github.com/mjol22/look-at-me/archive/master.zip",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "0.6.1"
 }
