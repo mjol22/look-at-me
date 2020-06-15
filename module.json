@@ -1,0 +1,15 @@
+{
+    "name": "look-at-me",
+    "title": "Look at me",
+    "description": "Forces non-gamemaster user's views to pan to targetted tokens",
+    "version": "0.1",
+    "author": "mjol22",
+    "scripts": ["./look-at-me.js"],
+    "styles": [],
+    "packs": [],
+    "url": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me",
+    "manifest": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me/module.json",
+    "download": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me/master.zip",
+    "minimumCoreVersion": "0.5.5",
+    "compatibleCoreVersion": "0.6.1"
+}
