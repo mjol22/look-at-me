@@ -8,7 +8,7 @@
     "styles": [],
     "packs": [],
     "url": "https://github.com/mjol22/look-at-me",
-    "manifest": "https://raw.githubusercontent.com/mjol22/look-at-me/module.json",
+    "manifest": "https://raw.githubusercontent.com/mjol22/look-at-me/master/module.json",
     "download": "https://raw.githubusercontent.com/mjol22/look-at-me/master.zip",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "0.6.1"
