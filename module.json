@@ -7,9 +7,9 @@
     "scripts": ["./look-at-me.js"],
     "styles": [],
     "packs": [],
-    "url": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me",
-    "manifest": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me/module.json",
-    "download": "file://C:/users/mathi/documents/dev/foundry-modules/look-at-me/master.zip",
+    "url": "https://github.com/mjol22/displaymode",
+    "manifest": "https://raw.githubusercontent.com/mjol22/look-at-me/master/module.json",
+    "download": "https://raw.githubusercontent.com/mjol22/look-at-me/master/master.zip",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "0.6.1"
 }
