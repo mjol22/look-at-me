@@ -5,7 +5,9 @@ Hooks.on('ready', () => {
 		game.socket.on('userActivity', (from, msg) => {
 			if (game.users.get('PnZGH8PYSgKwAUhX').role === USER_ROLES.GAMEMASTER && msg.targets && msg.targets.length) {
 				let s = game.scenes.filter(s => s.active)[0];
-				let coordsTotal = s.getEmbeddedCollection('Token').reduce((out, t) => {
+				let coordsTotal = s.getEmbeddedCollection('Token')
+				.filter(t => msg.targets.includes(t._id))
+				.reduce((out, t) => {
 					out.x += t.x;
 					out.y += t.y;
 					return out;
