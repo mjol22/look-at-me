@@ -2,7 +2,7 @@
     "name": "look-at-me",
     "title": "Look at me",
     "description": "Forces non-gamemaster user's views to pan to targetted tokens",
-    "version": "0.11",
+    "version": "0.2.0",
     "author": "mjol22",
     "scripts": ["./look-at-me.js"],
     "styles": [],
